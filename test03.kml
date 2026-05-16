@@ -5,13 +5,127 @@
         <name>Tour 16.05.2026 08:28</name>
         <visibility>1</visibility>
         <open>1</open>
-            <Style id="green">
+        
+                <Style id="red">
             <LineStyle>
-            <color>00852D00</color>
+            <color>C81400FF</color>
             <width>4</width>
             </LineStyle>
         </Style>
-
+        <Style id="route_red">
+            <LineStyle>
+            <color>961400FF</color>
+            <width>4</width>
+            </LineStyle>
+        </Style>
+                <Style id="green">
+            <LineStyle>
+            <color>C878FF00</color>
+            <width>4</width>
+            </LineStyle>
+        </Style>
+        <Style id="route_green">
+            <LineStyle>
+            <color>9678FF00</color>
+            <width>4</width>
+            </LineStyle>
+        </Style>
+                <Style id="blue">
+            <LineStyle>
+            <color>C8FF7800</color>
+            <width>4</width>
+            </LineStyle>
+        </Style>
+        <Style id="route_blue">
+            <LineStyle>
+            <color>96FF7800</color>
+            <width>4</width>
+            </LineStyle>
+        </Style>
+                <Style id="cyan">
+            <LineStyle>
+            <color>C8F0FF14</color>
+            <width>4</width>
+            </LineStyle>
+        </Style>
+        <Style id="route_cyan">
+            <LineStyle>
+            <color>96F0FF14</color>
+            <width>4</width>
+            </LineStyle>
+        </Style>
+                <Style id="orange">
+            <LineStyle>
+            <color>C81478FF</color>
+            <width>4</width>
+            </LineStyle>
+        </Style>
+        <Style id="route_orange">
+            <LineStyle>
+            <color>961478FF</color>
+            <width>4</width>
+            </LineStyle>
+        </Style>
+                <Style id="dark_green">
+            <LineStyle>
+            <color>C8008C14</color>
+            <width>4</width>
+            </LineStyle>
+        </Style>
+        <Style id="route_dark_green">
+            <LineStyle>
+            <color>96008C14</color>
+            <width>4</width>
+            </LineStyle>
+        </Style>
+                <Style id="purple">
+            <LineStyle>
+            <color>C8FF7878</color>
+            <width>4</width>
+            </LineStyle>
+        </Style>
+        <Style id="route_purple">
+            <LineStyle>
+            <color>96FF7878</color>
+            <width>4</width>
+            </LineStyle>
+        </Style>
+                <Style id="pink">
+            <LineStyle>
+            <color>C8A078F0</color>
+            <width>4</width>
+            </LineStyle>
+        </Style>
+        <Style id="route_pink">
+            <LineStyle>
+            <color>96A078F0</color>
+            <width>4</width>
+            </LineStyle>
+        </Style>
+                <Style id="brown">
+            <LineStyle>
+            <color>C8143C96</color>
+            <width>4</width>
+            </LineStyle>
+        </Style>
+        <Style id="route_brown">
+            <LineStyle>
+            <color>96143C96</color>
+            <width>4</width>
+            </LineStyle>
+        </Style>
+                <Style id="dark_blue">
+            <LineStyle>
+            <color>C8F01414</color>
+            <width>4</width>
+            </LineStyle>
+        </Style>
+        <Style id="route_dark_blue">
+            <LineStyle>
+            <color>96F01414</color>
+            <width>4</width>
+            </LineStyle>
+        </Style>
         
                 
                 
@@ -24,7 +138,7 @@
                 <Placemark>
                     <visibility>0</visibility>            
                     <open>0</open> 
-                    <styleUrl>#green</styleUrl>
+                    <styleUrl>#red</styleUrl>
                     <name>Tour 16.05.2026 08:28</name>
                     <description>Track no. 1</description>
                     <LineString>
