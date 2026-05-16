@@ -5,10 +5,23 @@
         <name>Tour 16.05.2026 08:28</name>
         <visibility>1</visibility>
         <open>1</open>
+        
+                <Style id="red">
+            <LineStyle>
+            <color>C81400FF</color>
+            <width>4</width>
+            </LineStyle>
+        </Style>
+        <Style id="route_red">
+            <LineStyle>
+            <color>961400FF</color>
+            <width>4</width>
+            </LineStyle>
+        </Style>
                 <Style id="green">
             <LineStyle>
             <color>00852D00</color>
-            <width>12</width>
+            <width>4</width>
             </LineStyle>
         </Style>
         <Style id="route_green">
@@ -126,7 +139,7 @@
                     <visibility>0</visibility>            
                     <open>0</open> 
                     <styleUrl>#green</styleUrl>
-                    <name>Tour 16.05.2026 08:28</name>
+                    <name>Test 08</name>
                     <description>Track no. 1</description>
                     <LineString>
                         <extrude>true</extrude>
