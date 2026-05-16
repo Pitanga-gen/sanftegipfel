@@ -6,18 +6,7 @@
         <visibility>1</visibility>
         <open>1</open>
         
-                <Style id="red">
-            <LineStyle>
-            <color>C81400FF</color>
-            <width>4</width>
-            </LineStyle>
-        </Style>
-        <Style id="route_red">
-            <LineStyle>
-            <color>961400FF</color>
-            <width>4</width>
-            </LineStyle>
-        </Style>
+
                 <Style id="green">
             <LineStyle>
             <color>C8248F17</color>
