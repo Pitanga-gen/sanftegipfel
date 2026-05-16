@@ -138,7 +138,7 @@
                 <Placemark>
                     <visibility>0</visibility>            
                     <open>0</open> 
-                    <styleUrl>#green</styleUrl>
+                    <styleUrl>#red</styleUrl>
                     <name>Test 08</name>
                     <description>Track no. 1</description>
                     <LineString>
