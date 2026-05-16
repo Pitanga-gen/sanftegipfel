@@ -2,7 +2,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2"  xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2"    
      xmlns:atom="http://www.w3.org/2005/Atom">
     <Document>
-        <name>Tour 16.05.2026 08:28</name>
+        <name>Test 02</name>
         <visibility>1</visibility>
         <open>1</open>
         
@@ -21,7 +21,7 @@
                 <Style id="green">
             <LineStyle>
             <color>C8248F17</color>
-            <width>4</width>
+            <width>8</width>
             </LineStyle>
         </Style>
         <Style id="route_green">
