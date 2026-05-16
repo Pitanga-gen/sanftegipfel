@@ -21,7 +21,7 @@
                 <Style id="green">
             <LineStyle>
             <color>C878FF00</color>
-            <width>4</width>
+            <width>8</width>
             </LineStyle>
         </Style>
         <Style id="route_green">
