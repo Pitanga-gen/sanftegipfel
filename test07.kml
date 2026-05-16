@@ -8,7 +8,7 @@
                 <Style id="green">
             <LineStyle>
             <color>00852D00</color>
-            <width>8</width>
+            <width>12</width>
             </LineStyle>
         </Style>
         <Style id="route_green">
