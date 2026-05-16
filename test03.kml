@@ -6,7 +6,7 @@
         <visibility>1</visibility>
         <open>1</open>
         
-                <Style id="red">
+            <Style id="red">
             <LineStyle>
             <color>C81400FF</color>
             <width>4</width>
