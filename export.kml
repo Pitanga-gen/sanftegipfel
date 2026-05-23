@@ -1,135 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<kml xmlns="http://www.opengis.net/kml/2.2"  xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2"    
-     xmlns:atom="http://www.w3.org/2005/Atom">
-    <Document>
-        <name>Tour 16.05.2026 08:28</name>
-        <visibility>1</visibility>
-        <open>1</open>
-        
-                <Style id="red">
-            <LineStyle>
-            <color>C81400FF</color>
-            <width>4</width>
-            </LineStyle>
-        </Style>
-        <Style id="route_red">
-            <LineStyle>
-            <color>961400FF</color>
-            <width>4</width>
-            </LineStyle>
-        </Style>
-                <Style id="green">
-            <LineStyle>
-            <color>C878FF00</color>
-            <width>4</width>
-            </LineStyle>
-        </Style>
-        <Style id="route_green">
-            <LineStyle>
-            <color>9678FF00</color>
-            <width>4</width>
-            </LineStyle>
-        </Style>
-                <Style id="blue">
-            <LineStyle>
-            <color>C8FF7800</color>
-            <width>4</width>
-            </LineStyle>
-        </Style>
-        <Style id="route_blue">
-            <LineStyle>
-            <color>96FF7800</color>
-            <width>4</width>
-            </LineStyle>
-        </Style>
-                <Style id="cyan">
-            <LineStyle>
-            <color>C8F0FF14</color>
-            <width>4</width>
-            </LineStyle>
-        </Style>
-        <Style id="route_cyan">
-            <LineStyle>
-            <color>96F0FF14</color>
-            <width>4</width>
-            </LineStyle>
-        </Style>
-                <Style id="orange">
-            <LineStyle>
-            <color>C81478FF</color>
-            <width>4</width>
-            </LineStyle>
-        </Style>
-        <Style id="route_orange">
-            <LineStyle>
-            <color>961478FF</color>
-            <width>4</width>
-            </LineStyle>
-        </Style>
-                <Style id="dark_green">
-            <LineStyle>
-            <color>C8008C14</color>
-            <width>4</width>
-            </LineStyle>
-        </Style>
-        <Style id="route_dark_green">
-            <LineStyle>
-            <color>96008C14</color>
-            <width>4</width>
-            </LineStyle>
-        </Style>
-                <Style id="purple">
-            <LineStyle>
-            <color>C8FF7878</color>
-            <width>4</width>
-            </LineStyle>
-        </Style>
-        <Style id="route_purple">
-            <LineStyle>
-            <color>96FF7878</color>
-            <width>4</width>
-            </LineStyle>
-        </Style>
-                <Style id="pink">
-            <LineStyle>
-            <color>C8A078F0</color>
-            <width>4</width>
-            </LineStyle>
-        </Style>
-        <Style id="route_pink">
-            <LineStyle>
-            <color>96A078F0</color>
-            <width>4</width>
-            </LineStyle>
-        </Style>
-                <Style id="brown">
-            <LineStyle>
-            <color>C8143C96</color>
-            <width>4</width>
-            </LineStyle>
-        </Style>
-        <Style id="route_brown">
-            <LineStyle>
-            <color>96143C96</color>
-            <width>4</width>
-            </LineStyle>
-        </Style>
-                <Style id="dark_blue">
-            <LineStyle>
-            <color>C8F01414</color>
-            <width>4</width>
-            </LineStyle>
-        </Style>
-        <Style id="route_dark_blue">
-            <LineStyle>
-            <color>96F01414</color>
-            <width>4</width>
-            </LineStyle>
-        </Style>
-        
-                
-                
-Folder><name>level_1</name>
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="level_1" id="level_1">
+	<SimpleField name="id" type="float"></SimpleField>
+</Schema>
+<Folder><name>level_1</name>
   <Placemark id="level_1.1">
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#level_1">
@@ -179,15 +54,5 @@ Folder><name>level_1</name>
 	</SchemaData></ExtendedData>
       <MultiGeometry><LineString><coordinates>9.4643347731371,47.2866076303861 9.46429476395071,47.2865676739367 9.46417299110361,47.2864565087454 9.46404210064846,47.286363264664 9.46392886523072,47.2863052592433 9.46381158312717,47.2862486294499 9.46368760904042,47.2861815090911 9.46360317999174,47.2861243558705 9.46355047335355,47.2860773162984 9.46352145001467,47.2860351781493 9.46350778220573,47.285984771478 9.4635204093825,47.2859045980865 9.46353696043187,47.2858243377616 9.46356534721908,47.2857465507462 9.46364822905112,47.2856597985549 9.46372018551125,47.2855945712692 9.46394105015083,47.2854281061255 9.46403246131116,47.2853598645247 9.46413180914375,47.2852941466257 9.46420095218886,47.2852582912378 9.4642897657038,47.2852247443607 9.46435088315805,47.2851836854237 9.46441107805324,47.2851186733817 9.46449243634816,47.2849800048526 9.46459273561386,47.2848693723762 9.46471052008732,47.2847895277333 9.46483274851333,47.2847407181308 9.46497538966334,47.284713773303 9.46527158512105,47.2846885641424 9.46538227573193,47.2846799596284 9.46547647819935,47.284667191202</coordinates></LineString></MultiGeometry>
   </Placemark>
-</Folder>                
-        <LookAt>
-            <longitude>9.4456552579068</longitude>            
-            <latitude>47.269750262145</latitude>             
-            <altitude>0</altitude>               
-            <heading>0</heading>               
-            <tilt>45</tilt>
-            <range>2297</range>                    
-            <altitudeMode>clampToGround</altitudeMode> 
-        </LookAt>
-    </Document>
-</kml>
+</Folder>
+</Document></kml>
