@@ -7,27 +7,27 @@
         <open>1</open>
       <Style id="green">
             <LineStyle>
-            <color>FF00FCFE</color>
-            <width>4</width>
+            <color>FF0DFF25</color>
+            <width>8</width>
             </LineStyle>
         </Style>
         <Style id="route_green">
             <LineStyle>
-            <color>FF00FCFE</color>
+            <color>FF0DFF25</color>
             <width>8</width>
             </LineStyle>
         </Style>
 
       <Style id="darkgreen">
             <LineStyle>
-            <color>FF00C814</color>
+            <color>FF00A711</color>
             <width>4</width>
             </LineStyle>
         </Style>
         <Style id="route_darkgreen">
             <LineStyle>
-            <color>FF000000</color>
-            <width>8</width>
+            <color>FF00A711</color>
+            <width>4</width>
             </LineStyle>
         </Style>
 <Folder><name>sanfte_gipfel</name>
