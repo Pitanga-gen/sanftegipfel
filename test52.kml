@@ -19,13 +19,13 @@
 
       <Style id="darkgreen">
             <LineStyle>
-            <color>FF00660A</color>
+            <color>FF00B712</color>
             <width>4</width>
             </LineStyle>
         </Style>
         <Style id="route_darkgreen">
             <LineStyle>
-            <color>FF00660A</color>
+            <color>FF00B712</color>
             <width>4</width>
             </LineStyle>
         </Style>
