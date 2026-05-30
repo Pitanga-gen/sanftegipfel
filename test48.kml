@@ -14,7 +14,7 @@
         </Style>
         <Style id="route_green">
             <LineStyle>
-            <color>961400FF</color>
+            <color>FF00C814</color>
             <width>4</width>
             </LineStyle>
         </Style>
